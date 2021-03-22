@@ -1,0 +1,19 @@
+.bgcolor{
+    background-color: blue;
+    color: white;
+    font-family: cursive;
+}
+.navbar{
+    text-align: right;
+    background-color: black;
+    font-family: Verdana;
+}
+.title{
+    text-align: center;
+    font-size: 30pt;
+    background-color: black;
+}
+.container{
+    text-align: center;
+    font-size: 15pt;
+}
