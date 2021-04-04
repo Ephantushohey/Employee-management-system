@@ -28,7 +28,7 @@ $result = mysqli_query($conn, $sql);
 	 
 	<div class="divider"></div>
 	<div id="divimg">
-		<h2 style="font-family: 'Montserrat', sans-serif; font-size: 25px; text-align: center;">Employee Leaderboard </h2>
+		<h2 style="font-family: 'Montserrat', sans-serif; font-size: 25px; text-align: center;">Employee List</h2>
     	<table>
 
 			<tr bgcolor="#000">
