@@ -141,8 +141,5 @@ function getRow(id){
 }
 </script>
 </body>
-</html>
-
-   </body>
    </html>
 	
